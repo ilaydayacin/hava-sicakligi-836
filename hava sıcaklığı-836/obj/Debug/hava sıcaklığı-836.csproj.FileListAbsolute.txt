@@ -1,0 +1,10 @@
+C:\Users\Win10\Desktop\ilkay py\c\hava sıcaklığı-836\hava sıcaklığı-836\bin\Debug\hava sıcaklığı-836.exe.config
+C:\Users\Win10\Desktop\ilkay py\c\hava sıcaklığı-836\hava sıcaklığı-836\bin\Debug\hava sıcaklığı-836.exe
+C:\Users\Win10\Desktop\ilkay py\c\hava sıcaklığı-836\hava sıcaklığı-836\bin\Debug\hava sıcaklığı-836.pdb
+C:\Users\Win10\Desktop\ilkay py\c\hava sıcaklığı-836\hava sıcaklığı-836\obj\Debug\hava sıcaklığı-836.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\ilkay py\c\hava sıcaklığı-836\hava sıcaklığı-836\obj\Debug\hava_sıcaklığı_836.Form1.resources
+C:\Users\Win10\Desktop\ilkay py\c\hava sıcaklığı-836\hava sıcaklığı-836\obj\Debug\hava_sıcaklığı_836.Properties.Resources.resources
+C:\Users\Win10\Desktop\ilkay py\c\hava sıcaklığı-836\hava sıcaklığı-836\obj\Debug\hava sıcaklığı-836.csproj.GenerateResource.cache
+C:\Users\Win10\Desktop\ilkay py\c\hava sıcaklığı-836\hava sıcaklığı-836\obj\Debug\hava sıcaklığı-836.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\ilkay py\c\hava sıcaklığı-836\hava sıcaklığı-836\obj\Debug\hava sıcaklığı-836.exe
+C:\Users\Win10\Desktop\ilkay py\c\hava sıcaklığı-836\hava sıcaklığı-836\obj\Debug\hava sıcaklığı-836.pdb
